@@ -1,1 +1,1 @@
-I Worked on the student data of The Citizens Foundation across Pakistan to derive some meaningful insights from the data.
+Designed a university admission dashboard for an NGO working in the education sector, to draw important insights from student data i.e annual count of students who got into universities in past 3 years, how many students are currently enrolled in higher studies, getting enrolled into dominating fields and top-tier universities and graduating students.
